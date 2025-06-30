@@ -4,7 +4,8 @@
 - **Title:**
 - **Source:**
 - **Link:**
-- **Takeaway:**
+
+**Notes**
 
 ## 📘 Solidity or EVM Docs
 - **Topic:**
